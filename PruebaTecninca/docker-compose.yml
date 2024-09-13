@@ -1,0 +1,13 @@
+﻿version: '3.0'
+services:
+   db:
+     image: mysql:latest
+     environment:
+       MYSQL_RANDOM_ROOT_PASSWORD: 1
+       MYSQL_DATABASE: mysql
+       MYSQL_USER: mysql
+       MYSQL_PASSWORD: mi-password
+     volumes:
+       - dbdata:/var/lib/mysql
+       - ./_MySQL_Init_Script:/docker-entrypoint-initdb.d
+     restart: always
