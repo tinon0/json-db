@@ -124,31 +124,6 @@
       "id": "2w25",
       "title": "Curso Tarde 8",
       "q_alumnos": 27
-    },
-    {
-      "id": "2w26",
-      "title": "Curso Noche 9",
-      "q_alumnos": 39
-    },
-    {
-      "id": "2w27",
-      "title": "Curso Mañana 8",
-      "q_alumnos": 34
-    },
-    {
-      "id": "2w28",
-      "title": "Curso Noche 10",
-      "q_alumnos": 36
-    },
-    {
-      "id": "2w29",
-      "title": "Curso Tarde 9",
-      "q_alumnos": 43
-    },
-    {
-      "id": "2w30",
-      "title": "Curso Tarde 10",
-      "q_alumnos": 31
     }
   ]
 }
