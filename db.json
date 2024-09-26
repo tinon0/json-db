@@ -9,6 +9,256 @@
       "id": "2w2",
       "title": "Curso Noche",
       "q_alumnos": 46
+    },
+    {
+      "id": "2w3",
+      "title": "Curso Mañana 1",
+      "q_alumnos": 30
+    },
+    {
+      "id": "2w4",
+      "title": "Curso Mañana 2",
+      "q_alumnos": 28
+    },
+    {
+      "id": "2w5",
+      "title": "Curso Tarde 1",
+      "q_alumnos": 40
+    },
+    {
+      "id": "2w6",
+      "title": "Curso Noche 1",
+      "q_alumnos": 35
+    },
+    {
+      "id": "2w7",
+      "title": "Curso Noche 2",
+      "q_alumnos": 42
+    },
+    {
+      "id": "2w8",
+      "title": "Curso Noche 3",
+      "q_alumnos": 33
+    },
+    {
+      "id": "2w9",
+      "title": "Curso Tarde 2",
+      "q_alumnos": 50
+    },
+    {
+      "id": "2w10",
+      "title": "Curso Tarde 3",
+      "q_alumnos": 25
+    },
+    {
+      "id": "2w11",
+      "title": "Curso Noche 4",
+      "q_alumnos": 45
+    },
+    {
+      "id": "2w12",
+      "title": "Curso Noche 5",
+      "q_alumnos": 37
+    },
+    {
+      "id": "2w13",
+      "title": "Curso Mañana 3",
+      "q_alumnos": 60
+    },
+    {
+      "id": "2w14",
+      "title": "Curso Mañana 4",
+      "q_alumnos": 20
+    },
+    {
+      "id": "2w15",
+      "title": "Curso Mañana 5",
+      "q_alumnos": 52
+    },
+    {
+      "id": "2w16",
+      "title": "Curso Tarde 4",
+      "q_alumnos": 55
+    },
+    {
+      "id": "2w17",
+      "title": "Curso Tarde 5",
+      "q_alumnos": 38
+    },
+    {
+      "id": "2w18",
+      "title": "Curso Noche 6",
+      "q_alumnos": 48
+    },
+    {
+      "id": "2w19",
+      "title": "Curso Noche 7",
+      "q_alumnos": 29
+    },
+    {
+      "id": "2w20",
+      "title": "Curso Tarde 6",
+      "q_alumnos": 32
+    },
+    {
+      "id": "2w21",
+      "title": "Curso Mañana 6",
+      "q_alumnos": 44
+    },
+    {
+      "id": "2w22",
+      "title": "Curso Tarde 7",
+      "q_alumnos": 26
+    },
+    {
+      "id": "2w23",
+      "title": "Curso Noche 8",
+      "q_alumnos": 41
+    },
+    {
+      "id": "2w24",
+      "title": "Curso Mañana 7",
+      "q_alumnos": 58
+    },
+    {
+      "id": "2w25",
+      "title": "Curso Tarde 8",
+      "q_alumnos": 27
+    },
+    {
+      "id": "2w26",
+      "title": "Curso Noche 9",
+      "q_alumnos": 39
+    },
+    {
+      "id": "2w27",
+      "title": "Curso Mañana 8",
+      "q_alumnos": 34
+    },
+    {
+      "id": "2w28",
+      "title": "Curso Noche 10",
+      "q_alumnos": 36
+    },
+    {
+      "id": "2w29",
+      "title": "Curso Tarde 9",
+      "q_alumnos": 43
+    },
+    {
+      "id": "2w30",
+      "title": "Curso Tarde 10",
+      "q_alumnos": 31
+    },
+    {
+      "id": "2w31",
+      "title": "Curso Noche 11",
+      "q_alumnos": 50
+    },
+    {
+      "id": "2w32",
+      "title": "Curso Noche 12",
+      "q_alumnos": 47
+    },
+    {
+      "id": "2w33",
+      "title": "Curso Mañana 9",
+      "q_alumnos": 29
+    },
+    {
+      "id": "2w34",
+      "title": "Curso Mañana 10",
+      "q_alumnos": 60
+    },
+    {
+      "id": "2w35",
+      "title": "Curso Tarde 11",
+      "q_alumnos": 42
+    },
+    {
+      "id": "2w36",
+      "title": "Curso Noche 13",
+      "q_alumnos": 28
+    },
+    {
+      "id": "2w37",
+      "title": "Curso Tarde 12",
+      "q_alumnos": 54
+    },
+    {
+      "id": "2w38",
+      "title": "Curso Noche 14",
+      "q_alumnos": 46
+    },
+    {
+      "id": "2w39",
+      "title": "Curso Mañana 11",
+      "q_alumnos": 38
+    },
+    {
+      "id": "2w40",
+      "title": "Curso Mañana 12",
+      "q_alumnos": 51
+    },
+    {
+      "id": "2w41",
+      "title": "Curso Noche 15",
+      "q_alumnos": 44
+    },
+    {
+      "id": "2w42",
+      "title": "Curso Tarde 13",
+      "q_alumnos": 30
+    },
+    {
+      "id": "2w43",
+      "title": "Curso Mañana 13",
+      "q_alumnos": 33
+    },
+    {
+      "id": "2w44",
+      "title": "Curso Tarde 14",
+      "q_alumnos": 37
+    },
+    {
+      "id": "2w45",
+      "title": "Curso Noche 16",
+      "q_alumnos": 29
+    },
+    {
+      "id": "2w46",
+      "title": "Curso Tarde 15",
+      "q_alumnos": 58
+    },
+    {
+      "id": "2w47",
+      "title": "Curso Noche 17",
+      "q_alumnos": 52
+    },
+    {
+      "id": "2w48",
+      "title": "Curso Tarde 16",
+      "q_alumnos": 45
+    },
+    {
+      "id": "2w49",
+      "title": "Curso Mañana 14",
+      "q_alumnos": 48
+    },
+    {
+      "id": "2w50",
+      "title": "Curso Mañana 15",
+      "q_alumnos": 49
+    },
+    {
+      "id": "2w51",
+      "title": "Curso Noche 18",
+      "q_alumnos": 53
+    },
+    {
+      "id": "2w52",
+      "title": "Curso Tarde 17",
+      "q_alumnos": 30
     }
   ]
 }
