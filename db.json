@@ -87,60 +87,70 @@
   ],
   "resultados": [
     {
+      "id": 1,
       "encuestador_id": 2,
       "barrio_id": 3,
       "equipo_id": 2,
       "votos": 87
     },
     {
+      "id": 2,
       "encuestador_id": 2,
       "barrio_id": 3,
       "equipo_id": 3,
       "votos": 134
     },
     {
+      "id": 3,
       "encuestador_id": 2,
       "barrio_id": 3,
       "equipo_id": 4,
       "votos": 120
     },
     {
+      "id": 4,
       "encuestador_id": 2,
       "barrio_id": 3,
       "equipo_id": 5,
       "votos": 97
     },
     {
+      "id": 5,
       "encuestador_id": 2,
       "barrio_id": 3,
       "equipo_id": 6,
       "votos": 56
     },
     {
+      "id": 6,
       "encuestador_id": 2,
       "barrio_id": 4,
       "equipo_id": 1,
       "votos": 134
     },
     {
+      "id": 7,
       "encuestador_id": 2,
       "barrio_id": 4,
       "equipo_id": 2,
       "votos": 134
     },
     {
+      "id": 8,
       "encuestador_id": 2,
       "barrio_id": 4,
       "equipo_id": 3,
       "votos": 87
     },
     {
+      "id": 9,
       "encuestador_id": 2,
       "barrio_id": 4,
       "equipo_id": 4,
       "votos": 134
     },
     {
+      "id": 10,
       "encuestador_id": 2,
       "barrio_id": 4,
       "equipo_id": 5,
