@@ -1,67 +1,87 @@
 {
   "encuestadores": [
     {
+      "id": 1,
       "nombre": "Juan"
     },
     {
+      "id": 2,
       "nombre": "Pedro"
     },
     {
+      "id": 3,
       "nombre": "Maria"
     },
     {
+      "id": 4,
       "nombre": "Jose"
     },
     {
+      "id": 5,
       "nombre": "Pablo"
     },
     {
+      "id": 6,
       "nombre": "Lucia"
     },
     {
+      "id": 7,
       "nombre": "Marta"
     }
   ],
   "equipos": [
     {
+      "id": 1,
       "nombre": "Talleres"
     },
     {
+      "id": 2,
       "nombre": "Belgrano"
     },
     {
+      "id": 3,
       "nombre": "Instituto"
     },
     {
+      "id": 4,
       "nombre": "Racing"
     },
     {
+      "id": 5,
       "nombre": "Las Palmas"
     },
     {
+      "id": 6,
       "nombre": "Otros"
     }
   ],
   "barrios": [
     {
+      "id": 1,
       "nombre": "Alta Cordoba"
     },
     {
+      "id": 2,
       "nombre": "Alberdi"
     },
     {
+      "id": 3,
       "nombre": "Centro"
     },
     {
+      "id": 4,
       "nombre": "Nueva Cordoba"
     },
     {
+      "id": 5,
       "nombre": "General Paz"
     },
     {
+      "id": 6,
       "nombre": "Marques"
     },
     {
+      "id": 7,
       "nombre": "Jardin"
     }
   ],
