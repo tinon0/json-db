@@ -1,105 +1,104 @@
 {
-  "contactos" : [
-  {
-    "id": 1,
-    "contact_value": "john.doe@example.com",
-    "contact_type": "EMAIL"
-  },
-  {
-    "id": 2,
-    "contact_value": "+1234567890",
-    "contact_type": "PHONE"
-  },
-  {
-    "id": 3,
-    "contact_value": "https://www.linkedin.com/in/johndoe",
-    "contact_type": "SOCIAL_MEDIA_LINK"
-  },
-  {
-    "id": 4,
-    "contact_value": "jane.smith@example.com",
-    "contact_type": "EMAIL"
-  },
-  {
-    "id": 5,
-    "contact_value": "+0987654321",
-    "contact_type": "PHONE"
-  },
-  {
-    "id": 6,
-    "contact_value": "https://twitter.com/janesmith",
-    "contact_type": "SOCIAL_MEDIA_LINK"
-  },
-  {
-    "id": 7,
-    "contact_value": "alice.johnson@example.com",
-    "contact_type": "EMAIL"
-  },
-  {
-    "id": 8,
-    "contact_value": "+1122334455",
-    "contact_type": "PHONE"
-  },
-  {
-    "id": 9,
-    "contact_value": "https://www.instagram.com/alicejohnson",
-    "contact_type": "SOCIAL_MEDIA_LINK"
-  },
-  {
-    "id": 10,
-    "contact_value": "bob.brown@example.com",
-    "contact_type": "EMAIL"
-  },
-  {
-    "id": 11,
-    "contact_value": "+5566778899",
-    "contact_type": "PHONE"
-  },
-  {
-    "id": 12,
-    "contact_value": "https://www.facebook.com/bobbrown",
-    "contact_type": "SOCIAL_MEDIA_LINK"
-  },
-  {
-    "id": 13,
-    "contact_value": "charlie.green@example.com",
-    "contact_type": "EMAIL"
-  },
-  {
-    "id": 14,
-    "contact_value": "+9988776655",
-    "contact_type": "PHONE"
-  },
-  {
-    "id": 15,
-    "contact_value": "https://www.tiktok.com/@charliegreen",
-    "contact_type": "SOCIAL_MEDIA_LINK"
-  },
-  {
-    "id": 16,
-    "contact_value": "david.wilson@example.com",
-    "contact_type": "EMAIL"
-  },
-  {
-    "id": 17,
-    "contact_value": "+4433221100",
-    "contact_type": "PHONE"
-  },
-  {
-    "id": 18,
-    "contact_value": "https://www.snapchat.com/add/davidwilson",
-    "contact_type": "SOCIAL_MEDIA_LINK"
-  },
-  {
-    "id": 19,
-    "contact_value": "emma.martinez@example.com",
-    "contact_type": "EMAIL"
-  },
-  {
-    "id": 20,
-    "contact_value": "+1233214567",
-    "contact_type": "PHONE"
-  }
-]
-
+  "contactos": [
+    {
+      "id": 1,
+      "contact_value": "john.doe@example.com",
+      "contact_type": "EMAIL"
+    },
+    {
+      "id": 2,
+      "contact_value": "+1234567890",
+      "contact_type": "PHONE"
+    },
+    {
+      "id": 3,
+      "contact_value": "https://www.linkedin.com/in/johndoe",
+      "contact_type": "SOCIAL_MEDIA_LINK"
+    },
+    {
+      "id": 4,
+      "contact_value": "jane.smith@example.com",
+      "contact_type": "EMAIL"
+    },
+    {
+      "id": 5,
+      "contact_value": "+0987654321",
+      "contact_type": "PHONE"
+    },
+    {
+      "id": 6,
+      "contact_value": "https://twitter.com/janesmith",
+      "contact_type": "SOCIAL_MEDIA_LINK"
+    },
+    {
+      "id": 7,
+      "contact_value": "alice.johnson@example.com",
+      "contact_type": "EMAIL"
+    },
+    {
+      "id": 8,
+      "contact_value": "+1122334455",
+      "contact_type": "PHONE"
+    },
+    {
+      "id": 9,
+      "contact_value": "https://www.instagram.com/alicejohnson",
+      "contact_type": "SOCIAL_MEDIA_LINK"
+    },
+    {
+      "id": 10,
+      "contact_value": "bob.brown@example.com",
+      "contact_type": "EMAIL"
+    },
+    {
+      "id": 11,
+      "contact_value": "+5566778899",
+      "contact_type": "PHONE"
+    },
+    {
+      "id": 12,
+      "contact_value": "https://www.facebook.com/bobbrown",
+      "contact_type": "SOCIAL_MEDIA_LINK"
+    },
+    {
+      "id": 13,
+      "contact_value": "charlie.green@example.com",
+      "contact_type": "EMAIL"
+    },
+    {
+      "id": 14,
+      "contact_value": "+9988776655",
+      "contact_type": "PHONE"
+    },
+    {
+      "id": 15,
+      "contact_value": "https://www.tiktok.com/@charliegreen",
+      "contact_type": "SOCIAL_MEDIA_LINK"
+    },
+    {
+      "id": 16,
+      "contact_value": "david.wilson@example.com",
+      "contact_type": "EMAIL"
+    },
+    {
+      "id": 17,
+      "contact_value": "+4433221100",
+      "contact_type": "PHONE"
+    },
+    {
+      "id": 18,
+      "contact_value": "https://www.snapchat.com/add/davidwilson",
+      "contact_type": "SOCIAL_MEDIA_LINK"
+    },
+    {
+      "id": 19,
+      "contact_value": "emma.martinez@example.com",
+      "contact_type": "EMAIL"
+    },
+    {
+      "id": 20,
+      "contact_value": "+1233214567",
+      "contact_type": "PHONE"
+    }
+  ]
 }
